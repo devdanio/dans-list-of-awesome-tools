@@ -10,3 +10,7 @@ An ongoing list of tools I use or want to use.
 * https://www.realtimecolors.com - Visualize colors and fonts on a real website
 * https://stacksorted.com/ - Design element inspiration
 * http://dribbble.com/ - Design inspiration for everything
+
+
+## People & Businesses
+* https://www.wavygrape.com - graphic designer
